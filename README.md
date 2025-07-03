@@ -13,10 +13,10 @@ With a foundation in numbers and business strategy, I’m now focused on buildin
 
 Jump to a section:
 
-- [Excel Projects](#excel-projects)
-- [SQL Projects](#sql-projects)
-- [Power BI Reports](#power-bi-reports)
-- [Tableau Dashboards](#tableau-dashboards)
+- [Excel ](#excel-projects)
+- [SQL ](#sql-projects)
+- [Power BI ](#power-bi-reports)
+- [Tableau ](#tableau-dashboards)
 - [Contact](#contact)
 
 ---
