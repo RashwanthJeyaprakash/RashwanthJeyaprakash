@@ -17,7 +17,6 @@ Jump to a section:
 - MySQL_Fundamentals (https://github.com/RashwanthJeyaprakash/MySQL_Fundamentals/blob/main/README.md)
 - [Power BI ](#power-bi-reports)
 - [Tableau ](#tableau-dashboards)
-- [Contact](#contact)
 
 ---
 
