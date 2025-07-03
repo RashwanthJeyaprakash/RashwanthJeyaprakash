@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Rashwanth Jeyaprakash
+### 👋 Hi, I'm Rashwanth Jeyaprakash
 
 
 I'm a recent **Finance graduate** with a growing passion for **data analytics** and how it drives smarter business decisions. 
