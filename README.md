@@ -9,7 +9,7 @@ With a foundation in numbers and business strategy, I’m now focused on buildin
 
 ---
 
-# Portfolio Overview
+### Portfolio Overview
 
 Jump to a section:
 
