@@ -17,7 +17,6 @@ Jump to a section:
 - [SQL Projects](#sql-projects)
 - [Power BI Reports](#power-bi-reports)
 - [Tableau Dashboards](#tableau-dashboards)
-- [Education & Certifications](#education--certifications)
 - [Contact](#contact)
 
 ---
