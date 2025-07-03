@@ -14,7 +14,8 @@ With a foundation in numbers and business strategy, I’m now focused on buildin
 Jump to a section:
 
 - [Excel ](#excel-projects)
-- [SQL ](#sql-projects)
+- [SQL ](MySQL_Fundamentals
+/README.md)
 - [Power BI ](#power-bi-reports)
 - [Tableau ](#tableau-dashboards)
 - [Contact](#contact)
